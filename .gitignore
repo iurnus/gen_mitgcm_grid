@@ -1,0 +1,4 @@
+*.nc
+*.npz
+*.bin
+MITgcm_gen_grid_*
